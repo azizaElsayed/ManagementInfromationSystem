@@ -1,0 +1,658 @@
+c:\users\rami\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Rami\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Rami\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Rami\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Rami\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Rami\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Rami\Desktop\important project - Copy\important.2\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\important project - Copy\important.2\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\important project - Copy\important.2\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\1\important.2\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\1\important.2\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\1\important.2\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\1\important.2\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\1\important.2\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\1\important.2\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Rami\Desktop\1\important.2\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Rami\Desktop\1\important.2\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Rami\Desktop\1\important.2\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Rami\Desktop\1\important.2\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Rami\Desktop\1\important.2\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Rami\Desktop\project sqlday25-1\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\project sqlday25-1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\project sqlday25-1\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\test\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\test\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\test\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\test\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\test\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\test\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Rami\Desktop\test\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Rami\Desktop\test\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Rami\Desktop\test\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Rami\Desktop\test\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Rami\Desktop\test\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Rami\Desktop\test - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\test - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\test - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\test - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\test - Copy\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\test - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Rami\Desktop\test - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Rami\Desktop\test - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Rami\Desktop\test - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Rami\Desktop\test - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Rami\Desktop\test - Copy\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+D:\project sqlday25-1\day26\المشروع باذن الله\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+D:\project sqlday25-1\day26\المشروع باذن الله\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+D:\project sqlday25-1\day26\المشروع باذن الله\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+D:\project sqlday25-1\day26\المشروع باذن الله\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+D:\project sqlday25-1\day26\المشروع باذن الله\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+D:\project sqlday25-1\day26\المشروع باذن الله\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+D:\project sqlday25-1\day26\المشروع باذن الله\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+D:\project sqlday25-1\day26\المشروع باذن الله\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+D:\project sqlday25-1\day26\المشروع باذن الله\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+D:\project sqlday25-1\day26\المشروع باذن الله\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\project sqlday25-1\day26\المشروع باذن الله\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Rami\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Rami\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Rami\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Rami\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Rami\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Rami\Desktop\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Rami\Desktop\day 27\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\day 27\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\day 27\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\day 27\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\day 27\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\day 27\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Rami\Desktop\day 27\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Rami\Desktop\day 27\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Rami\Desktop\day 27\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Rami\Desktop\day 27\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Rami\Desktop\day 27\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Rami\Desktop\الايام\day 27\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\الايام\day 27\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\الايام\day 27\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\الايام\day 27\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\الايام\day 27\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\الايام\day 27\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Rami\Desktop\الايام\day 27\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Rami\Desktop\الايام\day 27\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Rami\Desktop\الايام\day 27\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Rami\Desktop\الايام\day 27\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Rami\Desktop\الايام\day 27\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Rami\Desktop\الايام\day28\تسجيل\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\الايام\day28\تسجيل\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\الايام\day28\تسجيل\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\الايام\day28\تسجيل\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\الايام\day28\تسجيل\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\الايام\day28\تسجيل\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Rami\Desktop\الايام\day28\تسجيل\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Rami\Desktop\الايام\day28\تسجيل\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Rami\Desktop\الايام\day28\تسجيل\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Rami\Desktop\الايام\day28\تسجيل\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Rami\Desktop\الايام\day28\تسجيل\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Rami\Desktop\الايام\day28\تسجيل المواد العمليات المخزنة واستخدامtwo data grid view\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\الايام\day28\تسجيل المواد العمليات المخزنة واستخدامtwo data grid view\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\الايام\day28\تسجيل المواد العمليات المخزنة واستخدامtwo data grid view\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\الايام\day28\تسجيل المواد العمليات المخزنة واستخدامtwo data grid view\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\الايام\day28\تسجيل المواد العمليات المخزنة واستخدامtwo data grid view\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\الايام\day28\تسجيل المواد العمليات المخزنة واستخدامtwo data grid view\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Rami\Desktop\الايام\day28\تسجيل المواد العمليات المخزنة واستخدامtwo data grid view\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Rami\Desktop\الايام\day28\تسجيل المواد العمليات المخزنة واستخدامtwo data grid view\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Rami\Desktop\الايام\day28\تسجيل المواد العمليات المخزنة واستخدامtwo data grid view\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Rami\Desktop\الايام\day28\تسجيل المواد العمليات المخزنة واستخدامtwo data grid view\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Rami\Desktop\الايام\day28\تسجيل المواد العمليات المخزنة واستخدامtwo data grid view\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Rami\Desktop\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\Rami\Desktop\day1 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\day1 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\day1 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\day1 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\day1 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\day1 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Rami\Desktop\day1 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Rami\Desktop\day1 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Rami\Desktop\day1 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Rami\Desktop\day1 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\Rami\Desktop\day1 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Rami\Desktop\day1 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Rami\Desktop\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Rami\Desktop\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Rami\Desktop\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Rami\Desktop\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Rami\Desktop\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\Rami\Desktop\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Rami\Desktop\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Rami\Desktop\day 2 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\day 2 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\day 2 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\day 2 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\day 2 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\day 2 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Rami\Desktop\day 2 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Rami\Desktop\day 2 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Rami\Desktop\day 2 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Rami\Desktop\day 2 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\Rami\Desktop\day 2 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Rami\Desktop\day 2 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Rami\Desktop\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Rami\Desktop\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Rami\Desktop\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Rami\Desktop\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Rami\Desktop\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\Rami\Desktop\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Rami\Desktop\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Rami\Desktop\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Rami\Desktop\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Rami\Desktop\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Rami\Desktop\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Rami\Desktop\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\Rami\Desktop\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Rami\Desktop\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Rami\Desktop\day 6 in f - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\day 6 in f - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\day 6 in f - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\day 6 in f - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\day 6 in f - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\day 6 in f - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Rami\Desktop\day 6 in f - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Rami\Desktop\day 6 in f - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Rami\Desktop\day 6 in f - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Rami\Desktop\day 6 in f - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\Rami\Desktop\day 6 in f - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Rami\Desktop\day 6 in f - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Rami\Desktop\day 6 in f - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\Rami\Desktop\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Rami\Desktop\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Rami\Desktop\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Rami\Desktop\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Rami\Desktop\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\Rami\Desktop\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\Rami\Desktop\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Rami\Desktop\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Rami\Desktop\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form6.resources
+C:\Users\Rami\Desktop\New folder (2)\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\New folder (2)\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\New folder (2)\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\New folder (2)\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\New folder (2)\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\New folder (2)\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Rami\Desktop\New folder (2)\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Rami\Desktop\New folder (2)\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Rami\Desktop\New folder (2)\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\Rami\Desktop\New folder (2)\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\Rami\Desktop\New folder (2)\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form6.resources
+C:\Users\Rami\Desktop\New folder (2)\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Rami\Desktop\New folder (2)\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Rami\Desktop\New folder (2)\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Rami\Desktop\New folder (2)\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form7.resources
+C:\Users\Rami\Desktop\New folder (2)\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form8.resources
+C:\Users\Rami\Desktop\تنسيق\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\تنسيق\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\تنسيق\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\تنسيق\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\تنسيق\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\تنسيق\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Rami\Desktop\تنسيق\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Rami\Desktop\تنسيق\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Rami\Desktop\تنسيق\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\Rami\Desktop\تنسيق\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\Rami\Desktop\تنسيق\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form6.resources
+C:\Users\Rami\Desktop\تنسيق\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Rami\Desktop\تنسيق\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form8.resources
+C:\Users\Rami\Desktop\تنسيق\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Rami\Desktop\تنسيق\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Rami\Desktop\تنسيق\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form9.resources
+C:\Users\Rami\Desktop\تنسيق\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form10.resources
+C:\Users\Rami\Desktop\تنسيق\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form11.resources
+C:\Users\Rami\Desktop\تنسيق\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form12.resources
+C:\Users\Rami\Desktop\تنسيق\day 6 in f - Copy - Copy\project\day 3 in f\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form13.resources
+C:\Users\Rami\Desktop\تنسيق\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\تنسيق\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\تنسيق\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\تنسيق\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\تنسيق\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\تنسيق\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Rami\Desktop\تنسيق\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form10.resources
+C:\Users\Rami\Desktop\تنسيق\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form12.resources
+C:\Users\Rami\Desktop\تنسيق\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form13.resources
+C:\Users\Rami\Desktop\تنسيق\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Rami\Desktop\تنسيق\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Rami\Desktop\تنسيق\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\Rami\Desktop\تنسيق\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\Rami\Desktop\تنسيق\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form6.resources
+C:\Users\Rami\Desktop\تنسيق\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Rami\Desktop\تنسيق\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form8.resources
+C:\Users\Rami\Desktop\تنسيق\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form9.resources
+C:\Users\Rami\Desktop\تنسيق\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Rami\Desktop\تنسيق\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Rami\Desktop\تنسيق\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form7.resources
+C:\Users\Rami\Desktop\تنسيق\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form14.resources
+C:\Users\Rami\Desktop\تقدم المشروع\day 28 in f update2\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\تقدم المشروع\day 28 in f update2\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\تقدم المشروع\day 28 in f update2\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\تنسيق - Copy\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\تنسيق - Copy\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\تنسيق - Copy\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\تنسيق - Copy\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Rami\Desktop\تنسيق - Copy\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form10.resources
+C:\Users\Rami\Desktop\تنسيق - Copy\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form12.resources
+C:\Users\Rami\Desktop\تنسيق - Copy\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form13.resources
+C:\Users\Rami\Desktop\تنسيق - Copy\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form14.resources
+C:\Users\Rami\Desktop\تنسيق - Copy\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Rami\Desktop\تنسيق - Copy\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Rami\Desktop\تنسيق - Copy\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\Rami\Desktop\تنسيق - Copy\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\Rami\Desktop\تنسيق - Copy\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form6.resources
+C:\Users\Rami\Desktop\تنسيق - Copy\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Rami\Desktop\تنسيق - Copy\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form7.resources
+C:\Users\Rami\Desktop\تنسيق - Copy\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form8.resources
+C:\Users\Rami\Desktop\تنسيق - Copy\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form9.resources
+C:\Users\Rami\Desktop\تنسيق - Copy\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Rami\Desktop\تنسيق - Copy\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Rami\Desktop\تنسيق - Copy\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\تنسيق - Copy\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Rami\Desktop\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form10.resources
+C:\Users\Rami\Desktop\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form12.resources
+C:\Users\Rami\Desktop\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form13.resources
+C:\Users\Rami\Desktop\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form14.resources
+C:\Users\Rami\Desktop\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Rami\Desktop\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Rami\Desktop\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\Rami\Desktop\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\Rami\Desktop\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form6.resources
+C:\Users\Rami\Desktop\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Rami\Desktop\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form7.resources
+C:\Users\Rami\Desktop\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form8.resources
+C:\Users\Rami\Desktop\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form9.resources
+C:\Users\Rami\Desktop\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Rami\Desktop\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Rami\Desktop\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form11.resources
+C:\Users\Rami\Desktop\New folder (2)\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\New folder (2)\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\New folder (2)\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\New folder (2)\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\New folder (2)\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\New folder (2)\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Rami\Desktop\New folder (2)\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form10.resources
+C:\Users\Rami\Desktop\New folder (2)\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form11.resources
+C:\Users\Rami\Desktop\New folder (2)\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form12.resources
+C:\Users\Rami\Desktop\New folder (2)\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form13.resources
+C:\Users\Rami\Desktop\New folder (2)\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form14.resources
+C:\Users\Rami\Desktop\New folder (2)\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form15.resources
+C:\Users\Rami\Desktop\New folder (2)\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Rami\Desktop\New folder (2)\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Rami\Desktop\New folder (2)\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\Rami\Desktop\New folder (2)\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\Rami\Desktop\New folder (2)\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form6.resources
+C:\Users\Rami\Desktop\New folder (2)\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Rami\Desktop\New folder (2)\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form7.resources
+C:\Users\Rami\Desktop\New folder (2)\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form8.resources
+C:\Users\Rami\Desktop\New folder (2)\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form9.resources
+C:\Users\Rami\Desktop\New folder (2)\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Rami\Desktop\New folder (2)\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form10.resources
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form11.resources
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form12.resources
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form13.resources
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form14.resources
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form15.resources
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form16.resources
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form6.resources
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form7.resources
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form8.resources
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\new\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\Rami\Desktop\new\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\new\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\new\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Rami\Desktop\new\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Rami\Desktop\new\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Rami\Desktop\new\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form10.resources
+C:\Users\Rami\Desktop\new\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form11.resources
+C:\Users\Rami\Desktop\new\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form12.resources
+C:\Users\Rami\Desktop\new\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form13.resources
+C:\Users\Rami\Desktop\new\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form14.resources
+C:\Users\Rami\Desktop\new\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form15.resources
+C:\Users\Rami\Desktop\new\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form16.resources
+C:\Users\Rami\Desktop\new\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Rami\Desktop\new\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Rami\Desktop\new\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\Rami\Desktop\new\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\Rami\Desktop\new\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form6.resources
+C:\Users\Rami\Desktop\new\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Rami\Desktop\new\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form7.resources
+C:\Users\Rami\Desktop\new\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form8.resources
+C:\Users\Rami\Desktop\new\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form9.resources
+C:\Users\Rami\Desktop\new\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Rami\Desktop\new\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form17.resources
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\RdlCompile.cache
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\RdlCompile.compiled
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form18.resources
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form19.resources
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form20.resources
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form22.resources
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form23.resources
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form24.resources
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form25.resources
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form26.resources
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form27.resources
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form21.resources
+C:\Users\Rami\Desktop\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form28.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form10.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form11.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form12.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form13.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form14.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form15.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form16.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form17.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form18.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form19.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form20.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form21.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form22.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form23.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form24.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form25.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form26.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form27.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form28.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form6.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form7.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form8.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\RdlCompile.cache
+E:\MIS\Ramy\4-11-2018\day 9 in march clock 11.56 pm\تسجيل طالب جديد و بالرقم القومى\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\RdlCompile.compiled
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form10.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form11.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form12.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form13.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form14.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form15.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form16.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form17.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form18.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form19.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form20.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form21.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form22.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form23.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form24.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form25.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form26.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form27.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form28.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form29.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form6.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form7.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form8.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\RdlCompile.cache
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\RdlCompile.compiled
+E:\MIS\Forms (1)\4-24-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form30.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form10.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form11.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form12.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form13.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form14.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form15.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form16.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form17.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form18.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form19.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form20.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form21.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form22.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form23.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form24.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form25.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form26.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form27.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form28.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form29.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form30.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form6.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form7.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form8.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\RdlCompile.cache
+E:\MIS\Forms (1)\4-30-2018\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\RdlCompile.compiled
+C:\Users\nourin net\Desktop\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\nourin net\Desktop\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\nourin net\Desktop\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form10.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form11.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form12.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form13.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form14.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form15.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form16.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form17.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form18.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form19.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form20.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form21.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form22.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form23.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form24.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form25.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form26.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form27.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form28.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form29.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form30.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form6.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form7.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form8.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\RdlCompile.cache
+C:\Users\nourin net\Desktop\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\RdlCompile.compiled
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form10.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form11.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form12.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form13.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form14.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form15.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form16.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form17.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form18.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form19.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form20.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form21.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form22.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form23.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form24.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form25.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form26.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form27.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form28.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form29.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form30.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form6.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form7.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form8.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\RdlCompile.cache
+D:\Data\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\RdlCompile.compiled
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form10.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form11.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form12.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form13.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form14.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form15.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form16.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form17.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form18.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form19.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form20.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form21.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form22.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form23.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form24.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form25.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form26.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form27.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form28.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form29.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form30.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form5.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form6.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form7.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Form8.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\RdlCompile.cache
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\RdlCompile.compiled
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\nourin net\Desktop\project\final projectin 1 f\WindowsFormsApplication4 - Copy - Copy - Copy - Copy\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
